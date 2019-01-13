@@ -1,2 +1,2 @@
 # NukkitPlugin-Scala
-Scaaaaaaaaaaaaaaaaaaaaaaaaaaaaala
+This Nukkit plugin is a sample written in Scala.
